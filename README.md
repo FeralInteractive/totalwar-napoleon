@@ -1,4 +1,4 @@
-![Workshop_header_template](/ETW_workshop_header_template.png)
+![Workshop_header_template](/NTW_workshop_header_template.png)
 # Welcome to the Total War: Napoleon Mobile Modding GitHub
 Welcome! This is the home of the Total War: Napoleon mobile modding tools and documentation. This is the main place to access the official tools required to get you started.
 
