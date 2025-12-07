@@ -5,9 +5,9 @@ Welcome to the example mod, this mod will:
 1. Unlock all the factions so they can be played by a human.
 2. It will not make any other additions so many of the minor factions will have small rosters and not be survivable without using cheats.
 
-To install the mod you should place all three files inside the `FeralEmpireMods` on your phone making sure you own the expansion. You can download the example mod here: [ExampleMod.zip](ExampleMod.zip)
+To install the mod you should place all three files inside the `FeralEmpireMods` on your phone making sure you own the expansion. You can download the example mod here: [emergent_factions_mod.zip](emergent_factions_mod.zip)
 
-**IMPORTANT** The modding folder inside Napoleon is called EmpireMods. Howveer it is a different location to the one used for Empire.
+**IMPORTANT** The modding folder inside Napoleon is called EmpireMods. However it is a different location to the one used for Empire.
 
 Your FeralEmpireMods folder should look like this:
 
