@@ -71,7 +71,7 @@ The mobile version has some addional data packs compared to the desktop version.
 
 ## Example Mod
 
-To help show how modding should work we have created the following example mod. This mod will unlock the pirate faction as a playable faction and adds in one new unit (complete with new strings).
+To help show how modding should work we have created the following example mod. This mod will unlock all the unplayable factions including the emeregent factions but makes no other balance changes.
 
 [Example Mod](/Example_Mod.md)
 
